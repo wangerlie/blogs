@@ -1,0 +1,7 @@
+[submodule "MyFreshWebsite/themes/PaperMod"]
+	path = MyFreshWebsite/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "MyFreshWebsite/public"]
+	path = MyFreshWebsite/public
+	url = git@github.com:wangerlie/wangerlie.github.io.git
+	branch = main
